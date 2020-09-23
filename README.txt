@@ -1,0 +1,1 @@
+This webpage is a collection of the QR codes that can be found at the physical locations where the submarine cables make landfall. 
